@@ -1,14 +1,14 @@
 # MPwr
 Automation Test Scripts for mPWR
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
